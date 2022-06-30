@@ -1,7 +1,10 @@
-### Hi there 👋
+
+![#7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyagihime&show_icons=true&theme=radical)
 
 <!--
 **nyagihime/nyagihime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
