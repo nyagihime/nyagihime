@@ -1,5 +1,5 @@
 
-![#7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyagihime&show_icons=true&theme=radical)
+![#7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyagihime&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **nyagihime/nyagihime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
