@@ -1,6 +1,12 @@
 
 ![#7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyagihime&count_private=true&show_icons=true&theme=radical)
 
+---
+
+[[terminal settings](https://github.com/nyagihime/dotfiles)] - 
+[[.eslintrc](https://gist.github.com/nyagihime/b808c06e11f84e5bc4f656c7bcef6bae)] - 
+[[.stylelintrc](https://gist.github.com/nyagihime/67eaa0bf59dc739c0155d97d848992ef)]
+
 <!--
 **nyagihime/nyagihime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
